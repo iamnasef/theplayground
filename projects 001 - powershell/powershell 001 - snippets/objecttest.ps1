@@ -2,3 +2,4 @@
 $Nasef.Name
 $Nasef.Id
 $Nasef.Company
+$Nasef.Kill()
