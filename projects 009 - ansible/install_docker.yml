@@ -1,0 +1,10 @@
+---
+- name: install docker
+  hosts: servers
+  become: true
+
+  tasks:
+   - name: ansible apt install docker
+     apt:
+      name: docker
+      state: latest
