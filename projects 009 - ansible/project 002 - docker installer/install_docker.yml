@@ -1,0 +1,14 @@
+---
+- name: install docker
+  hosts: servers
+  become: true
+
+  tasks:
+   - name: ansible apt get update
+     apt:
+      update_cache=yes
+
+   - name: ansible apt install docker.io
+     apt:
+      name: docker.io
+      state: latest
