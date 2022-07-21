@@ -1,1 +1,1 @@
-ansible -i inventory.ini -m shell -a "echo 1 > /home/kali/Desktop/done" -> testing ansible setup
+ansible servers -i inventory.ini -m shell -a "echo 1 > /home/kali/Desktop/done" -> testing ansible setup
