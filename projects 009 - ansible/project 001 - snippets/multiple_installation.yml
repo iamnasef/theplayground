@@ -10,8 +10,8 @@
    - name : "echoing three lines"
      shell: "echo {{item}} >> lines.txt"
      with_items:
-      - line1
-      - line2
-      - line3
+      - "{{line1}}"
+      - "{{line2}}"
+      - "{{line3}}"
      
 
