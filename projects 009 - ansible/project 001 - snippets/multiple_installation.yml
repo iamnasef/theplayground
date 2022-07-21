@@ -1,0 +1,17 @@
+- name: "echoing three lines"
+  hosts: servers
+  become: true
+  vars:
+    line1 : "test1"
+    line2 : "test2"
+    line3 : "test3"
+
+  tasks:
+   - name : "echoing three lines"
+     shell: "echo {{item}} >> lines.txt"
+     with_items:
+      - line1
+      - line2
+      - line3
+     
+
