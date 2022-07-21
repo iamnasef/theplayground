@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://raw.githubusercontent.com/ansible-community/schemas/main/f/ansible.json#/$defs/playbook": "file:///f%3A/skills/skills%20002%20-%20projects/projects%20009%20-%20ansible/project%20001%20-%20snippets/multiple_installation.yml"
+    }
+}
