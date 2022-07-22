@@ -18,11 +18,15 @@ I wanted to deploy a docker swarm. My only problem was that all the available vi
 [Key Features](#key-features) •
 [Installation](#installation) •
 [Contact Me](#contract-me) •
-[Credits](#credits) •
+[Credits](#credits)
 
 </div>
 
 ## Key Features
+
+- Ability to execute command on hundreds of machine instances.
+- It can work with both on-prem and in the cloud (AWS, Azure, GCP...etc) 
+- It has the ability to install docker which is the most popular containerization and orchestration software
 
 ![Tutorial][tutorial]
 
