@@ -13,11 +13,8 @@
   <img src="img/cover.png" />
 </p>
 
-<img src="img/badge.svg"/>
-
-[![Downloads][downloads-badge]][releases]
-[![License][license-badge]][license]
-[![Built with Nix][builtwithnix-badge]][builtwithnix]
+<img src="img/badge1.svg"/>
+<img src="img/badge2.svg"/>
 
 zoxide is a **smarter cd command**, inspired by z and autojump.
 
