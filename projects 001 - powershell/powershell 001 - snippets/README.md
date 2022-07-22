@@ -10,9 +10,9 @@
 <img src="img/badge3.svg"/>
 <br />
 <br />
-Ansible Snippets is an a collection of YAML scripts and Adhoc commands.
+Powershell Snippets is an a collection of Powershell scripts.
 
-I wanted to experiment with ansible and trying the multiple options that it could offer
+I wanted to experiment with Powershell and trying the multiple options that it could offer
 
 **This is why I created this project**.
 
@@ -25,11 +25,15 @@ I wanted to experiment with ansible and trying the multiple options that it coul
 
 </div>
 
-## Snippit List
+## Snippet List
 
-1. multiple_installation.yml is a snippet I built to test vars and with_items
-2. adhoc.txt is a snippet I built to test adhoc commands
-3. inventory.ini is a snippet I built to give a command across multiple machines
+1. getprocess.ps1 is a snippet I built to get information about running process
+2. helloworld.ps1 is a snippet I built to get echo hello world
+3. modules.ps1 is a snippet I built to import ***Azure** in powershell
+4. objecttest.ps1 is a snippet I built to access methods of single process
+5. test.ps1 is a snippet I built to get echo test
+
+
 
 
 ## Technologies Used
