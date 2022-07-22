@@ -17,9 +17,8 @@ I wanted to deploy a docker swarm. My only problem was that all the available vi
 
 [Key Features](#key-features) •
 [Installation](#installation) •
-[Configuration](#configuration) •
-[Integrations](#third-party-integrations) •
-[Integrations](#third-party-integrations)
+[Contact Me](#contract-me) •
+[Credits](#credits) •
 
 </div>
 
@@ -307,7 +306,7 @@ zoxide import --from z path/to/db
 
 </details>
 
-## Configuration
+## Contact Me
 
 ### Flags
 
@@ -365,7 +364,7 @@ They must be set before `zoxide init` is called.
   - When set to 1, `z` will resolve symlinks before adding directories to the
     database.
 
-## Third-party integrations
+## Credits
 
 | Application        | Description                                  | Plugin                     |
 | ------------------ | -------------------------------------------- | -------------------------- |
