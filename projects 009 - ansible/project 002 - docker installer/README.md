@@ -353,6 +353,6 @@ They must be set before `zoxide init` is called.
 
 | Application                                         | Description                                  
 | --------------------------------------------------- |--------------------------------------------- 
-| [YAML](https://yaml.org/)                           | Improved cmd.exe for Windows                 
-| [Ansible](https://www.ansible.com/)                 | Text editor                                  
-| [Markdown Guide](https://www.markdownguide.org/)    | File manager                                 
+| [YAML](https://yaml.org/)                           | A Human-readable data-serialization language                 
+| [Ansible](https://www.ansible.com/)                 | A software provisioning, configuration management, and application deployment Tool                                  
+| [Markdown Guide](https://www.markdownguide.org/)    | A reference guide that explains how to use Markdown                                 
