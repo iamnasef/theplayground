@@ -17,7 +17,7 @@ I wanted to deploy a docker swarm. My only problem was that all the available vi
 
 [Key Features](#key-features) •
 [Installation](#installation) •
-[Contact Me](#contract-me) •
+[Contact Me](#contact-me) •
 [Credits](#credits)
 
 </div>
@@ -27,25 +27,6 @@ I wanted to deploy a docker swarm. My only problem was that all the available vi
 - Ability to execute command on hundreds of machine instances.
 - It can work with both on-prem and in the cloud (AWS, Azure, GCP...etc) 
 - It has the ability to install docker which is the most popular containerization and orchestration software
-
-![Tutorial][tutorial]
-
-```sh
-z foo              # cd into highest ranked directory matching foo
-z foo bar          # cd into highest ranked directory matching foo and bar
-z foo /            # cd into a subdirectory starting with foo
-
-z ~/foo            # z also works like a regular cd command
-z foo/             # cd into relative path
-z ..               # cd one level up
-z -                # cd into previous directory
-
-zi foo             # cd with interactive selection (using fzf)
-
-z foo<SPACE><TAB>  # show interactive completions (zoxide v0.8.0+, bash 4.4+/fish/zsh only)
-```
-
-Read more about the matching algorithm [here][algorithm-matching].
 
 ## Installation
 
@@ -370,81 +351,6 @@ They must be set before `zoxide init` is called.
 
 ## Credits
 
-| Application        | Description                                  | Plugin                     |
-| ------------------ | -------------------------------------------- | -------------------------- |
-| [clink]            | Improved cmd.exe for Windows                 | [clink-zoxide]             |
-| [emacs]            | Text editor                                  | [zoxide.el]                |
-| [felix]            | File manager                                 | Natively supported         |
-| [joshuto]          | File manager                                 | Natively supported         |
-| [lf]               | File manager                                 | See the [wiki][lf-wiki]    |
-| [nnn]              | File manager                                 | [nnn-autojump]             |
-| [ranger]           | File manager                                 | [ranger-zoxide]            |
-| [telescope.nvim]   | Fuzzy finder for Neovim                      | [telescope-zoxide]         |
-| [vim]              | Text editor                                  | [zoxide.vim]               |
-| [xplr]             | File manager                                 | [zoxide.xplr]              |
-| [xxh]              | Transports shell configuration over SSH      | [xxh-plugin-prerun-zoxide] |
-| [zabb]             | Finds the shortest possible query for a path | Natively supported         |
-| [zsh-autocomplete] | Realtime completions for zsh                 | Natively supported         |
-
-[algorithm-aging]: https://github.com/ajeetdsouza/zoxide/wiki/Algorithm#aging
-[algorithm-matching]: https://github.com/ajeetdsouza/zoxide/wiki/Algorithm#matching
-[alpine linux packages]: https://pkgs.alpinelinux.org/packages?name=zoxide
-[arch linux community]: https://archlinux.org/packages/community/x86_64/zoxide/
-[builtwithnix-badge]: https://img.shields.io/badge/builtwith-nix-7d81f7?style=flat-square
-[builtwithnix]: https://builtwithnix.org/
-[chocolatey]: https://community.chocolatey.org/packages/zoxide
-[clink-zoxide]: https://github.com/shunsambongi/clink-zoxide
-[clink]: https://github.com/mridgers/clink
-[conda-forge]: https://anaconda.org/conda-forge/zoxide
-[copr]: https://copr.fedorainfracloud.org/coprs/atim/zoxide/
-[crates.io-badge]: https://img.shields.io/crates/v/zoxide?style=flat-square
-[crates.io]: https://crates.io/crates/zoxide
-[debian packages]: https://packages.debian.org/stable/admin/zoxide
-[devuan packages]: https://pkginfo.devuan.org/cgi-bin/package-query.html?c=package&q=zoxide
-[downloads-badge]: https://img.shields.io/endpoint?color=bright-green&label=downloads&style=flat-square&cacheSeconds=3600&url=https%3A%2F%2Fzoxide-dl-rlvir7rbe5ac.runkit.sh%2F
-[dports]: https://github.com/DragonFlyBSD/DPorts/tree/master/sysutils/zoxide
-[emacs]: https://www.gnu.org/software/emacs/
-[fedora packages]: https://src.fedoraproject.org/rpms/rust-zoxide
-[felix]: https://github.com/kyoheiu/felix
-[freshports]: https://www.freshports.org/sysutils/zoxide/
-[fzf-installation]: https://github.com/junegunn/fzf#installation
-[fzf-man]: https://manpages.ubuntu.com/manpages/en/man1/fzf.1.html
-[fzf]: https://github.com/junegunn/fzf
-[glob]: https://man7.org/linux/man-pages/man7/glob.7.html
-[guru overlay]: https://github.com/gentoo-mirror/guru
-[homebrew]: https://formulae.brew.sh/formula/zoxide
-[issues]: https://github.com/ajeetdsouza/zoxide/issues/new
-[joshuto]: https://github.com/kamiyaa/joshuto
-[lf]: https://github.com/gokcehan/lf
-[lf-wiki]: https://github.com/gokcehan/lf/wiki/Integrations#zoxide
-[license-badge]: https://img.shields.io/github/license/ajeetdsouza/zoxide?color=lightgray&style=flat-square
-[license]: https://github.com/ajeetdsouza/zoxide/blob/main/LICENSE
-[linuxbrew]: https://formulae.brew.sh/formula-linux/zoxide
-[macports]: https://ports.macports.org/port/zoxide/summary
-[neovim]: https://github.com/neovim/neovim
-[nixpkgs]: https://github.com/NixOS/nixpkgs/blob/master/pkgs/tools/misc/zoxide/default.nix
-[nnn-autojump]: https://github.com/jarun/nnn/blob/master/plugins/autojump
-[nnn]: https://github.com/jarun/nnn
-[opensuse factory]: https://build.opensuse.org/package/show/openSUSE:Factory/zoxide
-[pkgsrc]: https://pkgsrc.se/sysutils/zoxide
-[ranger-zoxide]: https://github.com/jchook/ranger-zoxide
-[ranger]: https://github.com/ranger/ranger
-[raspbian packages]: https://archive.raspbian.org/raspbian/pool/main/r/rust-zoxide/
-[releases]: https://github.com/ajeetdsouza/zoxide/releases
-[scoop]: https://github.com/ScoopInstaller/Main/tree/master/bucket/zoxide.json
-[telescope-zoxide]: https://github.com/jvgrootveld/telescope-zoxide
-[telescope.nvim]: https://github.com/nvim-telescope/telescope.nvim
-[termux]: https://github.com/termux/termux-packages/tree/master/packages/zoxide
-[tutorial]: contrib/tutorial.webp
-[ubuntu packages]: https://packages.ubuntu.com/jammy/zoxide
-[vim]: https://github.com/vim/vim
-[void linux packages]: https://github.com/void-linux/void-packages/tree/master/srcpkgs/zoxide
-[wiki-env]: https://github.com/ajeetdsouza/zoxide/wiki/HOWTO:-set-environment-variables "HOWTO: set environment variables"
-[xplr]: https://github.com/sayanarijit/xplr
-[xxh-plugin-prerun-zoxide]: https://github.com/xxh/xxh-plugin-prerun-zoxide
-[xxh]: https://github.com/xxh/xxh
-[zabb]: https://github.com/Mellbourn/zabb
-[zoxide.el]: https://gitlab.com/Vonfry/zoxide.el
-[zoxide.vim]: https://github.com/nanotee/zoxide.vim
-[zoxide.xplr]: https://github.com/sayanarijit/zoxide.xplr
-[zsh-autocomplete]: https://github.com/marlonrichert/zsh-autocomplete
+- [YAML](https://yaml.org/)
+- [Ansible](https://www.ansible.com/)
+- [Markdown Guide](https://www.markdownguide.org/)
