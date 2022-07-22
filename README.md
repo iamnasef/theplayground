@@ -19,16 +19,21 @@ The playground is a group of Software Engineering, Cloud Engineering, and DevSec
 I wanted to a place where I can build, provision, and experiment with different technologies.
 
 **This is why I created this project**.
-
-[How to make use of the playground](#how-to-make-use-of-the-playground) •
-[Key Features](#key-features) •
 [Projects](#projects) •
-[Technologies Used](#technologies-used) •
-[Contact Me](#contact-me) 
-
+[Key Features](#key-features) •
+[How to make use of the playground](#how-to-make-use-of-the-playground) •
 
 
 </div>
+
+## Projects
+
+## Key Features
+
+- The playground has a wide range of projects in multiple disciplines
+- It has at least 10 projects in each technology
+- You can use these projects in your learning process
+
 
 ## How to make use of the playground
 
@@ -36,15 +41,6 @@ I wanted to a place where I can build, provision, and experiment with different 
 2. Compare your code with the playground code.
 3. Watch the videos embedded in each project which shows how to build it in a step by step manner 
 4. Contact with me if you have any questions
-
-## Key Features
-
-- The playground has a wide range of projects in multiple disciplines
-- It has at least 10 projects in each technology
-- You can use these projects in your learning process
-- 
-## Projects
-
 
 ## Technologies Used
 
@@ -60,5 +56,3 @@ This is the list of technologies used in the playground
 | [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)                 | A  markup language for documents designed to be displayed in a web browser   
 | [Ansible](https://www.ansible.com/)                 | A software provisioning, configuration management, and application deployment tool                                  
 | [Markdown Guide](https://www.markdownguide.org/)    | A reference guide that explains how to use markdown                                 
-
-## Contact Me
