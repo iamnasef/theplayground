@@ -19,6 +19,12 @@ I wanted to deploy a docker swarm. My only problem was that all the available vi
 [Installation](#installation) •
 [Technologies Used](#technologies-used) •
 [Contact Me](#contact-me) 
+
+
+
+![Main Image](img/main.gif)
+
+
 </div>
 
 ## Key Features
