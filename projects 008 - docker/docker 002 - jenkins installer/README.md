@@ -36,7 +36,7 @@ I wanted to deploy a jenkins instance. My only problem was that I wanted to boot
 
 ## Installation
 
-### *Step 1: Install SSH Server*
+### *Step 1: Run Docker Compose*
 
 Run the following command in command line but make sure to 
 
