@@ -1,11 +1,3 @@
-<!-- markdownlint-configure-file {
-  "MD013": {
-    "code_blocks": false,
-    "tables": false
-  },
-  "MD033": false,
-  "MD041": false
-} -->
 
 <div align="center">
 
@@ -16,11 +8,10 @@
 <img src="img/badge1.svg"/>
 <img src="img/badge2.svg"/>
 
-zoxide is a **smarter cd command**, inspired by z and autojump.
+Docker Installer is an **ansible playbook**, built do install docker across multiple numbers of virtual machine across cloud.
 
-It remembers which directories you use most frequently, so you can "jump" to
-them in just a few keystrokes.<br />
-zoxide works on all major shells.
+I wanted to deploy a docker swarm. My only problem was that all the available virtual machines doesn't have docker<br />
+This is why I created this project.
 
 [Getting started](#getting-started) •
 [Installation](#installation) •
