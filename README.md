@@ -29,6 +29,31 @@ I wanted to a place where I can build, provision, and experiment with different 
 
 ## Projects
 
+<details><summary><b>Projects 001 - Powershell</b></summary>
+
+1. ``Powershell 001 - Snippets`` : is an a collection of Powershell snippets.
+
+</details>
+
+<details><summary><b>Projects 002 - CSS </b></summary>
+
+1. ``CSS 001 - Snippets`` : is an a collection of CSS snippets.
+
+</details>
+<details><summary><b>Projects 008 - Docker</b></summary>
+
+1. ``Docker 001 - Snippets`` : is an a collection of docker snippets.
+2. ``Docker 002 - Jenkins Installer`` : is a docker-compose file, built to boot jenkins instance in the cloud.
+</details>
+
+<details><summary><b>Projects 009 - Ansible</b></summary>
+
+1. ``Ansible 001 - Snippets`` : is an a collection of ansible snippets.
+2. ``Ansible 002 - Docker Installer`` : is an ansible playbook, built to install docker across multiple numbers of virtual machine in the cloud.
+</details>
+
+
+
 ## Key Features
 
 - The playground has a wide range of projects in multiple technologies in multiple disciplines
