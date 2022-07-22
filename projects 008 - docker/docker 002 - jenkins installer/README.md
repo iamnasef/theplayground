@@ -60,7 +60,7 @@ You can modify the docker compose file to add multiple other containers in the s
 
 | Application                                         | Description                                  
 | --------------------------------------------------- |--------------------------------------------- 
-| [Docker](hthttps://www.docker.com/)                           | A set of platform as a service products that use OS-level virtualization to deliver software in packages called containers                 
+| [Docker](https://www.docker.com/)                           | A set of platform as a service products that use OS-level virtualization to deliver software in packages called containers                 
 | [YAML](https://yaml.org/)                | A Human-readable data-serialization language   
 | [Markdown Guide](https://www.markdownguide.org/)    | A reference guide that explains how to use markdown                                        
 
