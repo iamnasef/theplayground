@@ -9,7 +9,7 @@
 <img src="img/badge2.svg"/>
 <br />
 <br />
-Docker Installer is an **ansible playbook**, built to install docker across multiple numbers of virtual machine in the cloud.
+Docker Installer is an ansible playbook, built to install docker across multiple numbers of virtual machine in the cloud.
 
 I wanted to deploy a docker swarm. My only problem was that all the available virtual machines doesn't have docker
 
@@ -18,7 +18,7 @@ I wanted to deploy a docker swarm. My only problem was that all the available vi
 [Key Features](#key-features) •
 [Installation](#installation) •
 [Contact Me](#contact-me) •
-[Credits](#credits)
+[Technologies Used](#technologies-used)
 
 </div>
 
@@ -349,8 +349,10 @@ They must be set before `zoxide init` is called.
   - When set to 1, `z` will resolve symlinks before adding directories to the
     database.
 
-## Credits
+## Technologies Used
 
-- [YAML](https://yaml.org/)
-- [Ansible](https://www.ansible.com/)
-- [Markdown Guide](https://www.markdownguide.org/)
+| Application                                         | Description                                  
+| --------------------------------------------------- |--------------------------------------------- 
+| [YAML](https://yaml.org/)                           | Improved cmd.exe for Windows                 
+| [Ansible](https://www.ansible.com/)                 | Text editor                                  
+| [Markdown Guide](https://www.markdownguide.org/)    | File manager                                 
