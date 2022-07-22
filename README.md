@@ -19,6 +19,7 @@ The playground is a group of Software Engineering, Cloud Engineering, and DevSec
 I wanted to a place where I can build, provision, and experiment with different technologies.
 
 **This is why I created this project**.
+
 [Projects](#projects) •
 [Key Features](#key-features) •
 [How to make use of the playground](#how-to-make-use-of-the-playground) •
