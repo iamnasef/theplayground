@@ -9,21 +9,21 @@
 <img src="img/badge2.svg"/>
 <br />
 <br />
-<br />
 Docker Installer is an **ansible playbook**, built to install docker across multiple numbers of virtual machine in the cloud.
 
 I wanted to deploy a docker swarm. My only problem was that all the available virtual machines doesn't have docker
 
 **This is why I created this project**.
 
-[Getting started](#getting-started) •
+[Key Features](#key-features) •
 [Installation](#installation) •
 [Configuration](#configuration) •
+[Integrations](#third-party-integrations) •
 [Integrations](#third-party-integrations)
 
 </div>
 
-## Getting started
+## Key Features
 
 ![Tutorial][tutorial]
 
