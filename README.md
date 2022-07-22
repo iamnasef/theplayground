@@ -31,9 +31,10 @@ I wanted to a place where I can build, provision, and experiment with different 
 
 ## Key Features
 
-- The playground has a wide range of projects in multiple disciplines
+- The playground has a wide range of projects in multiple technologies in multiple disciplines
 - It has at least 10 projects in each technology
 - You can use these projects in your learning process
+- You can rebuild the idea from scratch with your improvements as resumer project
 
 
 ## How to make use of the playground
