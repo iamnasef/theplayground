@@ -40,8 +40,8 @@ I wanted to experiment with Powershell and trying the multiple options that it c
 
 | Application                                         | Description                                  
 | --------------------------------------------------- |--------------------------------------------- 
-| [YAML](https://yaml.org/)                           | A Human-readable data-serialization language                 
-| [Ansible](https://www.ansible.com/)                 | A software provisioning, configuration management, and application deployment tool                                  
+| [Powershell](https://docs.microsoft.com/en-us/powershell/)                           | A task automation and configuration management program from Microsoft                 
+| [Windows](https://www.microsoft.com/en-us/windows)                 | A group of several proprietary graphical operating system families developed and marketed by Microsoft                                  
 | [Markdown Guide](https://www.markdownguide.org/)    | A reference guide that explains how to use markdown                                 
 
 ## Contact Me
