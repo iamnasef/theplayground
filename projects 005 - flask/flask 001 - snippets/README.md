@@ -26,7 +26,7 @@ I wanted to experiment with Flask and Python and trying the multiple options tha
 
 ## Snippet List
 
-1. 
+1. first.py is my first api wrriten in flask
 
 
 
