@@ -26,7 +26,7 @@ I wanted to experiment with Nodejs and Javascript and trying the multiple option
 
 ## Snippet List
 
-1. 
+1. first.js is the first nodejs snippet in the project which will print the word hello world
 
 
 
