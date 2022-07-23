@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clipping</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Albert+Sans&display=swap" rel="stylesheet">
+
+    <style>
+        *{
+            margin: 0px;
+            padding: 0px;
+            box-sizing: border-box;
+        }
+
+        body{
+            font-family: 'Albert Sans', sans-serif;
+            padding: 30px;
+        }
+
+        header{
+            height: 95vh;
+            background-image: linear-gradient(160deg, rgb(0,147,233,0.6) 0%, rgb(128,208,199,0.6) 100%), url("https://images.unsplash.com/photo-1454496522488-7a8e488e8606");
+            background-size: cover;
+            background-position: top;
+
+            clip-path: polygon(0 0, 100% 0 , 100% 75% , 0 100%);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Nasef</h1>
+    </header>
+    
+</body>
+</html>

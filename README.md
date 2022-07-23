@@ -67,7 +67,7 @@ I wanted to a place where I can build, provision, and experiment with different 
 1. Read the project description and try recreating it from scratch
 2. Compare your code with the playground code.
 3. Watch the videos embedded in each project which shows how to build it in a step by step manner 
-4. Contact with me if you have any questions
+4. Contact me if you have any questions
 
 ## Technologies Used
 
@@ -81,5 +81,8 @@ This is the list of technologies used in the playground
 | [Windows](https://www.microsoft.com/en-us/windows)                 | A group of several proprietary graphical operating system families developed and marketed by Microsoft  
 | [CSS](https://www.w3.org/Style/CSS/Overview.en.html/)                           | A style sheet language used for describing the presentation of a document written in a markup language                 
 | [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)                 | A  markup language for documents designed to be displayed in a web browser   
-| [Ansible](https://www.ansible.com/)                 | A software provisioning, configuration management, and application deployment tool                                  
+| [Ansible](https://www.ansible.com/)                 | A software provisioning, configuration management, and application deployment tool        
+| [Python](https://www.python.org/)                           | A programming language that lets you work quickly
+and integrate systems more effectively.         
+| [Flask](https://flask.palletsprojects.com/en/2.1.x/)                           | A popular, extensible web microframework for building web applications with Python.                              
 | [Markdown Guide](https://www.markdownguide.org/)    | A reference guide that explains how to use markdown                                 
