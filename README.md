@@ -88,5 +88,7 @@ This is the list of technologies used in the playground
 | [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)                 | A  markup language for documents designed to be displayed in a web browser   
 | [Ansible](https://www.ansible.com/)                 | A software provisioning, configuration management, and application deployment tool        
 | [Python](https://www.python.org/)                   | A programming language that lets you work quickly and integrate systems more effectively.         
-| [Flask](https://flask.palletsprojects.com/en/2.1.x/)                           | A popular, extensible web microframework for building web applications with Python.                              
+| [Flask](https://flask.palletsprojects.com/en/2.1.x/)                           | A popular, extensible web microframework for building web applications with Python.
+| [Nodejs](https://nodejs.org/en/)                           | A JavaScript runtime built on Chrome's V8 JavaScript engine
+| [Javascript](https://www.javascript.com/)                           | A programming language that is one of the core technologies of the World Wide Web.                              
 | [Markdown Guide](https://www.markdownguide.org/)    | A reference guide that explains how to use markdown                                 
