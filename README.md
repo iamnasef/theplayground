@@ -23,7 +23,7 @@ I wanted to a place where I can build, provision, and experiment with different 
 [Projects](#projects) •
 [Key Features](#key-features) •
 [How to make use of the playground](#how-to-make-use-of-the-playground) •
-
+[Technologies Used](#technologies-used)
 
 </div>
 
