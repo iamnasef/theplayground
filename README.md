@@ -51,6 +51,10 @@ I wanted to a place where I can build, provision, and experiment with different 
 1. ``Nodejs 001 - Snippets`` : is an a collection of nodejs snippets.
 </details>
 
+<details><summary><b>Projects 007 - Flutter</b></summary>
+
+1. ``Flutter 001 - Snippets`` : is an a collection of Flutter snippets.
+</details>
 
 <details><summary><b>Projects 008 - Docker</b></summary>
 
@@ -96,5 +100,7 @@ This is the list of technologies used in the playground
 | [Python](https://www.python.org/)                   | A programming language that lets you work quickly and integrate systems more effectively.         
 | [Flask](https://flask.palletsprojects.com/en/2.1.x/)                           | A popular, extensible web microframework for building web applications with Python.
 | [Nodejs](https://nodejs.org/en/)                           | A JavaScript runtime built on Chrome's V8 JavaScript engine
-| [Javascript](https://www.javascript.com/)                           | A programming language that is one of the core technologies of the World Wide Web.                              
+| [Javascript](https://www.javascript.com/)                           | A programming language that is one of the core technologies of the World Wide Web.      
+| [Flutter](https://flutter.dev/)                           | A software development kit created by Google
+| [Dart](https://www.javascript.com/)                           | A programming language designed for client development.                                        
 | [Markdown Guide](https://www.markdownguide.org/)    | A reference guide that explains how to use markdown                                 
