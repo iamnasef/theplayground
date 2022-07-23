@@ -40,6 +40,12 @@ I wanted to a place where I can build, provision, and experiment with different 
 1. ``CSS 001 - Snippets`` : is an a collection of CSS snippets.
 
 </details>
+
+<details><summary><b>Projects 005 - Flask</b></summary>
+
+1. ``Flask 001 - Snippets`` : is an a collection of flask snippets.
+</details>
+
 <details><summary><b>Projects 008 - Docker</b></summary>
 
 1. ``Docker 001 - Snippets`` : is an a collection of docker snippets.
@@ -51,7 +57,6 @@ I wanted to a place where I can build, provision, and experiment with different 
 1. ``Ansible 001 - Snippets`` : is an a collection of ansible snippets.
 2. ``Ansible 002 - Docker Installer`` : is an ansible playbook, built to install docker across multiple numbers of virtual machine in the cloud.
 </details>
-
 
 
 ## Key Features
