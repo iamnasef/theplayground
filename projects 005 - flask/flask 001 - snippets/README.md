@@ -7,7 +7,6 @@
 
 <img src="img/badge1.svg"/>
 <img src="img/badge2.svg"/>
-<img src="img/badge3.svg"/>
 <br />
 <br />
 Flask Snippets is an a collection of python scripts.
