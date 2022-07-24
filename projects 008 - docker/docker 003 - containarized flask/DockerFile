@@ -1,0 +1,9 @@
+FROM python:latest
+
+RUN ["mkdir","/var/application"]
+WORKDIR /var/application
+COPY application .
+COPY requirements.txt .
+RUN ["pip","-r","requirements.txt"]
+EXPOSE 8080/tcp
+CMD ["flask","run"]
