@@ -6,7 +6,6 @@
 </p>
 
 <img src="img/badge1.svg"/>
-<img src="img/badge2.svg"/>
 <br />
 <br />
 Containarized Flask is a Docker Image, built to make a containarized version of a flask api application.
@@ -34,7 +33,7 @@ I wanted to create a CI/CD pipeline for a flask api application. My only problem
 
 ## Installation
 
-### *Step 1: *
+
 
 
 ## Technologies Used
@@ -43,8 +42,7 @@ I wanted to create a CI/CD pipeline for a flask api application. My only problem
 | --------------------------------------------------- |--------------------------------------------- 
 | [Docker](https://www.docker.com/)                           | A set of platform as a service products that use OS-level virtualization to deliver software in packages called containers                 
 | [YAML](https://yaml.org/)                | A Human-readable data-serialization language  
-| [Python](https://www.python.org/)                           | A programming language that lets you work quickly
-and integrate systems more effectively.         | 
+| [Python](https://www.python.org/)                           | A programming language that lets you work quickly and integrate systems more effectively.         | 
 [Flask](https://flask.palletsprojects.com/en/2.1.x/)                           | A popular, extensible web microframework for building web applications with Python.     
 | [Markdown Guide](https://www.markdownguide.org/)    | A reference guide that explains how to use markdown                                        
 
