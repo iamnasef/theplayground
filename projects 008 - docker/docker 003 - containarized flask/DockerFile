@@ -5,5 +5,5 @@ WORKDIR /var/application
 COPY application .
 COPY requirements.txt .
 RUN ["pip","install","-r","requirements.txt"]
-EXPOSE 8080/tcp
-CMD ["flask","run"]
+EXPOSE 5000/tcp
+CMD ["flask","run","--host","0.0.0.0"]
