@@ -2,7 +2,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="img/cover.png" />
+  <img src="img/cover1.png" />
 </p>
 
 <p align="center">
