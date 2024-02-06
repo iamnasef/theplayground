@@ -29,7 +29,7 @@ The playground serves as my domain for exploring diverse aspects of Software Eng
 
 <details><summary><b>Projects 001 - Ansible </b></summary>
 
-1. [``Ansible 001 - Snippets``](https://github.com/iamnasef/ansible-snippets) is a set of miscellaneous and unrelated ansible playbooks, built to try different configurations
+1. [``Ansible 001 - Snippets``](https://github.com/iamnasef/ansible-snippets) is a set of miscellaneous and unrelated ansible playbooks, built to try different configurations.
 
 </details>
 
@@ -55,4 +55,6 @@ This is the list of technologies used in the playground
 
 | Application                                         | Description                                  
 | --------------------------------------------------- |--------------------------------------------- 
+| [YAML](https://yaml.org/)                           | A Human-readable data-serialization language                 
+| [Ansible](https://www.ansible.com/)                 | A software provisioning, configuration management, and application deployment tool       
 | [Markdown](https://www.markdownguide.org/)                           | A lightweight markup language for creating formatted text using a plain-text editor language                 
