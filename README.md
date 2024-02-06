@@ -29,7 +29,7 @@ The playground serves as my domain for exploring diverse aspects of Software Eng
 
 <details><summary><b>Projects 001 - Ansible </b></summary>
 
-1. [`` [Ansible 001 - Snippets]`` is a set of miscellaneous and unrelated ansible playbooks, built to try different configurations](https://github.com/iamnasef/ansible-snippets)
+1. [`` [Ansible 001 - Snippets]``](https://github.com/iamnasef/ansible-snippets) is a set of miscellaneous and unrelated ansible playbooks, built to try different configurations]
 
 </details>
 
