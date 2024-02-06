@@ -27,9 +27,9 @@ The playground serves as my domain for exploring diverse aspects of Software Eng
 
 ## Projects
 
-<details><summary><b>Projects 001 - </b></summary>
+<details><summary><b>Projects 001 - Ansible </b></summary>
 
-1. `` 001 - Snippets`` : is an a collection of  snippets.
+1. [`` Ansible 001 - Snippets`` : is a set of miscellaneous and unrelated ansible playbooks, built to try different configurations](https://github.com/iamnasef/ansible-snippets)
 
 </details>
 
