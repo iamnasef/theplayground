@@ -119,6 +119,6 @@ This is the list of technologies used in the playground
 | [Ansible](https://www.ansible.com/)                 | A software provisioning, configuration management, and application deployment tool       
 | [Terraform](https://www.terraform.io/)                           | An open-source, infrastructure as code, software tool created by HashiCorp 
 | [AWS](https://aws.amazon.com/)                | An on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis  
-| [Docker](hthttps://www.docker.com/)                           | A set of platform as a service products that use OS-level virtualization to deliver software in packages called containers     
+| [Docker](https://www.docker.com/)                           | A set of platform as a service products that use OS-level virtualization to deliver software in packages called containers     
 | [Kubernetes](https://kubernetes.io/)                           | An open-source container orchestration system for automating software deployment, scaling, and management
 | [Markdown](https://www.markdownguide.org/)                           | A lightweight markup language for creating formatted text using a plain-text editor language                 
