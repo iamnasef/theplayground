@@ -29,7 +29,13 @@ The playground serves as my domain for exploring diverse aspects of Software Eng
 
 <details><summary><b>Projects 001 - Ansible </b></summary>
 
-1. [``Ansible 001 - Snippets``](https://github.com/iamnasef/ansible-snippets) is a set of miscellaneous and unrelated ansible playbooks, built to try different configurations.
+1. [``Ansible 001 - Snippets``](https://github.com/iamnasef/ansible-snippets) is a set of miscellaneous and unrelated snippets, built to try different configurations.
+
+</details>
+
+<details><summary><b>Projects 002 - Terraform </b></summary>
+
+1. [``Terraform 001 - Snippets``](https://github.com/iamnasef/https://github.com/iamnasef/terraform-snippets) is a set of miscellaneous and unrelated snippets, built to try different configurations.
 
 </details>
 
@@ -57,4 +63,6 @@ This is the list of technologies used in the playground
 | --------------------------------------------------- |--------------------------------------------- 
 | [YAML](https://yaml.org/)                           | A Human-readable data-serialization language                 
 | [Ansible](https://www.ansible.com/)                 | A software provisioning, configuration management, and application deployment tool       
+| [Terraform](https://www.terraform.io/)                           | An open-source, infrastructure as code, software tool created by HashiCorp 
+| [AWS](https://aws.amazon.com/)                | An on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis  
 | [Markdown](https://www.markdownguide.org/)                           | A lightweight markup language for creating formatted text using a plain-text editor language                 
