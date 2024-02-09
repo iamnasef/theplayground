@@ -14,7 +14,7 @@
 
 <br />
 <br />
-The playground serves as my domain for exploring diverse aspects of Software Engineering, DevSecOps, and Cloud technologies. Within this space, I engage in constructing projects designed to address real-world challenges or simply explore hypothetical scenarios. 
+The playground serves as my personal domain for experimenting with various Software Engineering, DevSecOps, and Cloud technologies through project development.
 
 **This is why I created this project**.
 
@@ -35,13 +35,13 @@ The playground serves as my domain for exploring diverse aspects of Software Eng
 
 <details><summary><b>Projects 002 - Terraform </b></summary>
 
-1. [``Terraform 001 - Snippets``](https://github.com/iamnasef/https://github.com/iamnasef/terraform-snippets) is a set of miscellaneous and unrelated snippets, built to try different configurations.
+1. [``Terraform 001 - Snippets``](https://github.com/iamnasef/terraform-snippets) is a set of miscellaneous and unrelated snippets, built to try different configurations.
 
 </details>
 
 <details><summary><b>Projects 003 - Flutter </b></summary>
 
-1. [``Flutter 001 - Snippets``](https://github.com/iamnasef/https://github.com/iamnasef/flutter-snippets) is a set of miscellaneous and unrelated snippets, built to try different configurations.
+1. [``Flutter 001 - Snippets``](https://github.com/iamnasef/flutter-snippets) is a set of miscellaneous and unrelated snippets, built to try different configurations.
 
 </details>
 
@@ -85,13 +85,16 @@ The playground serves as my domain for exploring diverse aspects of Software Eng
 
 ## Key Features
 
-- The playground encompasses a diverse array of projects spanning various technologies across multiple disciplines.
-- Each technology boasts a minimum of 10 projects, providing a rich resource for your learning journey.
-- These projects serve as valuable tools for enhancing your understanding and can be reconstructed from scratch.
-- It allows you to showcase your improvements as part of your resume project.
+- Diverse Project Portfolio: Engage with a diverse array of projects spanning various technologies and disciplines within the playground.
+
+- Abundant Learning Resources: Access over 5 projects for each technology, offering a rich resource for expanding your knowledge and skills.
+
+- Reconstruction Capability: Projects are designed to be reconstructed from scratch, providing valuable hands-on experience and opportunities for experimentation.
+
+- Resume Enhancement: Showcase your improvements and achievements through the projects as part of your resume, highlighting your skills and expertise.
 
 
-## How you can make use of the playground
+## How you can make use of the project
 
 1. Carefully review the project description and endeavor to reconstruct it independently.
 2. Conduct a thorough comparison between your code and the code available in the playground.
@@ -100,7 +103,7 @@ The playground serves as my domain for exploring diverse aspects of Software Eng
 
 ## Technologies Used
 
-This is the list of technologies used in the playground
+This is the list of technologies used in the project
 
 | Application                                         | Description                                  
 | --------------------------------------------------- |--------------------------------------------- 
