@@ -47,37 +47,37 @@ The playground serves as my personal domain for experimenting with various Softw
 
 <details><summary><b>Projects 004 - Solidity </b></summary>
 
-1. [``Solidity 001 - Snippets``](https://github.com/iamnasef/https://github.com/iamnasef/solidity-snippets) is a set of miscellaneous and unrelated snippets, built to try different configurations.
+1. [``Solidity 001 - Snippets``](https://github.com/iamnasef/solidity-snippets) is a set of miscellaneous and unrelated snippets, built to try different configurations.
 
 </details>
 
 <details><summary><b>Projects 005 - Jenkins </b></summary>
 
-1. [``Jenkins 001 - Snippets``](https://github.com/iamnasef/https://github.com/iamnasef/jenkins-snippets) is a set of miscellaneous and unrelated snippets, built to try different configurations.
+1. [``Jenkins 001 - Snippets``](https://github.com/iamnasef/jenkins-snippets) is a set of miscellaneous and unrelated snippets, built to try different configurations.
 
 </details>
 
 <details><summary><b>Projects 006 - Docker </b></summary>
 
-1. [``Docker 001 - Snippets``](https://github.com/iamnasef/https://github.com/iamnasef/docker-snippets) is a set of miscellaneous and unrelated snippets, built to try different configurations.
+1. [``Docker 001 - Snippets``](https://github.com/iamnasef/docker-snippets) is a set of miscellaneous and unrelated snippets, built to try different configurations.
 
 </details>
 
 <details><summary><b>Projects 007 - CSS </b></summary>
 
-1. [``CSS 001 - Snippets``](https://github.com/iamnasef/https://github.com/iamnasef/css-snippets) is a set of miscellaneous and unrelated snippets, built to try different configurations.
+1. [``CSS 001 - Snippets``](https://github.com/iamnasef/css-snippets) is a set of miscellaneous and unrelated snippets, built to try different configurations.
 
 </details>
 
 <details><summary><b>Projects 008 - Prometheus </b></summary>
 
-1. [``Prometheus 001 - Snippets``](https://github.com/iamnasef/https://github.com/iamnasef/promtheus-snippets) is a set of miscellaneous and unrelated snippets, built to try different configurations.
+1. [``Prometheus 001 - Snippets``](https://github.com/iamnasef/promtheus-snippets) is a set of miscellaneous and unrelated snippets, built to try different configurations.
 
 </details>
 
 <details><summary><b>Projects 009 - Kubernetes </b></summary>
 
-1. [``Kubernetes 001 - Snippets``](https://github.com/iamnasef/https://github.com/iamnasef/kubernetes-snippets) is a set of miscellaneous and unrelated snippets, built to try different configurations.
+1. [``Kubernetes 001 - Snippets``](https://github.com/iamnasef/kubernetes-snippets) is a set of miscellaneous and unrelated snippets, built to try different configurations.
 
 </details>
 
