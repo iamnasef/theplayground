@@ -87,7 +87,7 @@ The playground serves as my personal domain for experimenting with various Softw
 
 - Diverse Project Portfolio: Engage with a diverse array of projects spanning various technologies and disciplines within the playground.
 
-- Abundant Learning Resources: Access over 5 projects for each technology, offering a rich resource for expanding your knowledge and skills.
+- Abundant Learning Resources: Access over 3 projects for each technology, offering a rich resource for expanding your knowledge and skills.
 
 - Reconstruction Capability: Projects are designed to be reconstructed from scratch, providing valuable hands-on experience and opportunities for experimentation.
 
