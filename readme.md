@@ -5,7 +5,7 @@ The playground serves as a hub for all projects developed by Esqueware, with the
 
 </p>
 
-<p align="center"><b>Have Fun, and follow us below</b1></p>
+<p align="center"><b>Have fun, and follow us below</b1></p>
 
 
 <p align="center">
@@ -17,13 +17,13 @@ The playground serves as a hub for all projects developed by Esqueware, with the
 
 
 
-# SECTION 001
+# HTML
 
 <center>
 
 | <div style="width:150px">Name</div> | <div style="width:400px">URL</div> | <div style="width:700px">Description</div> |
 | ------------- | ------------- | ------------- |
-| DEMO Name #1  | https://demourl.com/project-github-1  | This is just a description for a project #1 that should replace this text  |
-| DEMO Name #2  | https://demourl.com/project-github-2  | This is just a description for a project #2 that should replace this text  |
+| HTML DRAFT  | https://github.com/iamnasef/html-drafts | These are sets of miscellaneous html files  |
+
 
 </center>
