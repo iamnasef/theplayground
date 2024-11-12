@@ -45,7 +45,7 @@ The playground serves as a hub for all projects developed by Esqueware, with the
 
 | <div style="width:150px">Name</div> | <div style="width:400px">URL</div> | <div style="width:700px">Description</div> |
 | ------------- | ------------- | ------------- |
-| JAVASCRIPT DRAFTS  | https://github.com/iamnasef/css-drafts | These are sets of miscellaneous Javascript files  |
+| JAVASCRIPT DRAFTS  | https://github.com/iamnasef/javascript-drafts | These are sets of miscellaneous Javascript files  |
 
 
 </center>
