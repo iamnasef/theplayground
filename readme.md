@@ -78,7 +78,7 @@ The playground serves as a hub for all projects developed by Esqueware, with the
 
 | <div style="width:150px">Name</div> | <div style="width:400px">URL</div> | <div style="width:700px">Description</div> |
 | ------------- | ------------- | ------------- |
-| ANSIBLE DRAFTS  | https://github.com/iamnasef/kubernetes-drafts | These are sets of miscellaneous Kubernetes files  |
+| KUBERNETES DRAFTS  | https://github.com/iamnasef/kubernetes-drafts | These are sets of miscellaneous Kubernetes files  |
 
 
 </center>
