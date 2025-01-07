@@ -56,18 +56,29 @@ The playground serves as a hub for all projects developed by Esqueware, with the
 
 | <div style="width:150px">Name</div> | <div style="width:400px">URL</div> | <div style="width:700px">Description</div> |
 | ------------- | ------------- | ------------- |
-| DOCKER DRAFTS  | https://github.com/iamnasef/docker-drafts | These are sets of miscellaneous Javascript files  |
+| DOCKER DRAFTS  | https://github.com/iamnasef/docker-drafts | These are sets of miscellaneous Docker files  |
 
 
 </center>
 
-# Docker
+# Ansible
 
 <center>
 
 | <div style="width:150px">Name</div> | <div style="width:400px">URL</div> | <div style="width:700px">Description</div> |
 | ------------- | ------------- | ------------- |
 | ANSIBLE DRAFTS  | https://github.com/iamnasef/ansible-drafts | These are sets of miscellaneous Ansible files  |
+
+
+</center>
+
+# Kubernetes
+
+<center>
+
+| <div style="width:150px">Name</div> | <div style="width:400px">URL</div> | <div style="width:700px">Description</div> |
+| ------------- | ------------- | ------------- |
+| ANSIBLE DRAFTS  | https://github.com/iamnasef/kubernetes-drafts | These are sets of miscellaneous Kubernetes files  |
 
 
 </center>
