@@ -1,9 +1,9 @@
 <p align="center"><img src="banners.gif" /></p>
 
-<h1 align="center">THE PLAYGROUND</h1>
+<h1 align="center">ESQUEWARE</h1>
 
 <p align="center">
-The playground serves as a hub for all projects developed by Esqueware, with the goal of building and experimenting with different technologies.
+A hub for projects created by Esquewarians to explore, teach, and showcase various concepts across diverse technologies and fields.
 </p>
 
 <p align="center"><b>Have fun, and follow us below!</b></p>
