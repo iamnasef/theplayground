@@ -3,7 +3,7 @@
 <h1 align="center">The Playground</h1>
 
 <p align="center">
-The playground serves as a hub for all projects developed by Esqueware, with the goal of offering an exerpirments on various technologies.
+Esqueware's Playground serves as a central platform for all their experimental projects. This space allows developers to explore and test different technologies, fostering innovation and pushing the boundaries of what's possible.
 </p>
 
 <p align="center"><b>Have fun, and follow us below!</b></p>
